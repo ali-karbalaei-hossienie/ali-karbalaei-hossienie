@@ -34,17 +34,20 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Mapbox_GL_JS-151515?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox GL JS" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/deck.gl-000000?style=for-the-badge&logo=deck.gl&logoColor=white" alt="deck.gl" />
 </p>
 
 ---
 
 ### 🚀 About Me & Focus
 
--   **Frontend Architecture:** Building scalable and maintainable applications with a focus on clean code and modern design patterns.
--   **Geospatial Development:** Working with geographic data, map layers (Mapbox GL), and building dynamic tracking platforms.
+-   **Frontend Architecture:** Building scalable and maintainable applications with React, TypeScript, MUI, and Tailwind CSS — focusing on clean code and modern design patterns.
+-   **Geospatial Development:** Working with geographic data, map layers (Mapbox GL, deck.gl), and building dynamic tracking and visualization platforms.
+-   **State Management:** Managing complex application state efficiently with Redux Toolkit.
 -   **Performance:** Optimizing website speed, rendering, and overall performance for the best user experience.
 -   **Passion:** Continuously learning new technologies, mastering DSA patterns, and improving software architecture skills.
 
